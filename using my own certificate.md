@@ -10,5 +10,4 @@ use Domain Mapping in Code Engine to be able to connect to the application using
 
 Create a sub domain for your application using a CNAME record with your domain registrator
 My application in CodeEngine should run at lowcode.dougeyebeem.se
-![myDNSsetting](/images/myDNSsettings.png)
-
+![myDNSsetting](/images/myDNSsetting.png)
