@@ -69,6 +69,6 @@ The certificate entry should have the full chain, ie three certificates
 ![domainMappingForm](/images/domainMappingForm.png)
 
 when done it should look similar to this
-![domainMappingDone](/images/domainMappingDone)
+![domainMappingDone](/images/domainMappingDone.png)
 
 
