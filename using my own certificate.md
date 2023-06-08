@@ -5,3 +5,4 @@ create an application on IBM Cloud Engine.
 create a subdomain for the new application
 use Domain Mapping in Code Engine to be able to connect to the application using the subdomain
 
+*here is the code engine information about the application*
